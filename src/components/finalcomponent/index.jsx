@@ -79,7 +79,7 @@ const FinalComponent = () => {
                   Fleurveda introduces
                 </h1>
                 <p className="text-sm max-sm:text-xs mb-4">
-                  a precise fusion of Science and Ayurveda, transcending the
+                  A precise fusion of Science and Ayurveda, transcending the
                   ordinary to elevate your self-care experience!
                 </p>
                 <p className="text-sm max-sm:text-xs mb-4">
